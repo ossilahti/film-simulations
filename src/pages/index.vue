@@ -21,7 +21,6 @@ const { t } = useI18n()
     <div>
       <button
         m-3 text-sm btn
-        @click="go"
       >
         {{ t('button.go') }}
       </button>
