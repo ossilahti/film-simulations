@@ -10,3 +10,4 @@ node_modules
 cypress/downloads
 *.local
 src/server/.env
+src/.env
